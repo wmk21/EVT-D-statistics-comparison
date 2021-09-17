@@ -1,6 +1,6 @@
 # EVT-D-statistics-comparison
 
-Python script to compare D statistics (Coles et al, 2001) among statistical models and plot the best model for each grid point. 
+Python script to compare D statistics (Coles et al., 2001) among statistical models and plot the best model for each grid point. 
 As an input data, it uses the negative log-likeloods (NLLH) of generalized pareto distribution models. NLLH are estimated using R ismev (https://CRAN.R-project.org/package=ismev) and extRemes packages (https://CRAN.R-project.org/package=extRemes) following Coles et al. (2001).
 
 The script reproduces Figure 11 in Kim et al. (2021):

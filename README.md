@@ -1,7 +1,7 @@
 # EVT-D-statistics-comparison
 
 Python script to compare D statistics (Coles et al., 2001) among statistical models and plot the best model for each grid point. 
-As an input data, it uses the negative log-likeloods (NLLH) of generalized pareto distribution models. NLLH are estimated using R ismev (https://CRAN.R-project.org/package=ismev) and extRemes packages (https://CRAN.R-project.org/package=extRemes) following Coles et al. (2001).
+As input, it uses negative log-likelihoods (NLLH) of generalized pareto distribution models. NLLH are estimated using R ismev (https://CRAN.R-project.org/package=ismev) and extRemes packages (https://CRAN.R-project.org/package=extRemes) following Coles et al. (2001).
 
 The script reproduces Figure 11 in Kim et al. (2021):
 
@@ -12,7 +12,7 @@ Some post-processed datasets used in Kim et al. (2021) are available in Klima un
 
 https://cloud.climate.unibe.ch/s/HAXWy8BJMntonNi
 
-Full datasets of CESM 1.2.2 1501BCE-1849CE simulations are available by request. Please contact to Woon Mi Kim (woonmi.kim@unibe.ch) or Prof. Dr. Christoph Raible (christoph.raible@unibe.ch)
+Complete datasets of CESM 1.2.2 1501BCE-1849CE simulations are available by request. Please get in touch with Woon Mi Kim (woonmi.kim@unibe.ch) or Prof. Dr. Christoph Raible (christoph.raible@unibe.ch)
 
 
 

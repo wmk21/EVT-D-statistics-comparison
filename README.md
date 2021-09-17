@@ -16,7 +16,7 @@ Full datasets of CESM 1.2.2 1501BCE-1849CE simulations are available by request.
 
 
 
-To use the data or the script provided here and/or KUP Nextcloud, please cite these papers:  
+To use the data or the script provided here and/or in KUP Nextcloud, please cite these papers:  
 
 Kim, W. M., Blender, R., Sigl, M., Messmer, M., and Raible, C. C: Statistical characteristics of extreme daily precipitation during 1501 BCE–1849 CE in the Community Earth System Model. Climate of the Past Discussions, 1-38. https://doi.org/10.5194/cp-2021-61, 2021.
 

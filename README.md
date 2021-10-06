@@ -19,8 +19,6 @@ To use the data or the script obtained here and/or at Zenodo (https://doi.org/10
 
 - *Kim, W. M., Blender, R., Sigl, M., Messmer, M., and Raible, C. C: Statistical characteristics of extreme daily precipitation during 1501 BCE–1849 CE in the Community Earth System Model. Climate of the Past Discussions, 1-38. https://doi.org/10.5194/cp-2021-61, 2021.*
 
-- *Gilleland,  E.  and  Katz,  R.  W.:  extRemes  2.0:  An  extreme  value  analysis  package  in  R,  Journal  of  Statistical  Software,  72,  1–39, https://doi.org/10.18637/jss.v072.i08, 2016.*
-
 - *Coles, S., Bawa, J., Trenner, L., and Dorazio, P.: An introduction to statistical modeling of extreme values, vol. 208, Springer, 2001.*
 
 
